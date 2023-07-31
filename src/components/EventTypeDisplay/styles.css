@@ -1,0 +1,17 @@
+.event-type-display {
+    width: 20%;
+    max-width: 8rem;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.event-type-display img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+@media(max-widht: 1120px) {
+    .event-type-display {
+        width: 10%;
+    }
+}
